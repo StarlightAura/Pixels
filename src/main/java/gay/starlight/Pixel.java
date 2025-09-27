@@ -35,4 +35,7 @@ public class Pixel {
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("u-M-d");
         this.date = LocalDate.parse(date, formatter);
     }
+
+
+
 }

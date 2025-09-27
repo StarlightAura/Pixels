@@ -13,4 +13,7 @@ import java.util.ArrayList;
 public class Tag {
     public String type;
     public ArrayList<String> entries;
+
+
+
 }
