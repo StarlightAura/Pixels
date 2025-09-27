@@ -39,3 +39,4 @@ build/
 
 ### Pixel Files ###
 PIXELS*.json
+out/
